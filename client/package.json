@@ -1,6 +1,9 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "engines": {
+    "node": "6.11.1"
+  },
   "dependencies": {
     "@apollo/client": "^3.7.10",
     "@apollo/react-hooks": "^4.0.0",
